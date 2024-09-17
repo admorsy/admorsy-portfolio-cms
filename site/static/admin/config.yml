@@ -3,7 +3,7 @@ backend:
   branch: main
 
 media_folder: "site/static/img/portfolio/1280" # Folder where user uploaded files should go
-public_folder: "img"
+public_folder: "img/portfolio/1280"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "project" # Used in routes, ie.: /admin/collections/:slug/edit
